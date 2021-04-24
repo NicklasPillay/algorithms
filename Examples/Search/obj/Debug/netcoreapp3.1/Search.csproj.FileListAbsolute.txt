@@ -4,7 +4,6 @@ C:\Dev\GitHub\algorithms\Examples\Search\bin\Debug\netcoreapp3.1\Search.runtimec
 C:\Dev\GitHub\algorithms\Examples\Search\bin\Debug\netcoreapp3.1\Search.runtimeconfig.dev.json
 C:\Dev\GitHub\algorithms\Examples\Search\bin\Debug\netcoreapp3.1\Search.dll
 C:\Dev\GitHub\algorithms\Examples\Search\bin\Debug\netcoreapp3.1\Search.pdb
-C:\Dev\GitHub\algorithms\Examples\Search\obj\Debug\netcoreapp3.1\Search.csprojAssemblyReference.cache
 C:\Dev\GitHub\algorithms\Examples\Search\obj\Debug\netcoreapp3.1\Search.AssemblyInfoInputs.cache
 C:\Dev\GitHub\algorithms\Examples\Search\obj\Debug\netcoreapp3.1\Search.AssemblyInfo.cs
 C:\Dev\GitHub\algorithms\Examples\Search\obj\Debug\netcoreapp3.1\Search.csproj.CoreCompileInputs.cache

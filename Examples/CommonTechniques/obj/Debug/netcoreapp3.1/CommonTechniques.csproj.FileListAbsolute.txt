@@ -4,7 +4,6 @@ C:\Dev\GitHub\algorithms\Examples\CommonTechniques\bin\Debug\netcoreapp3.1\Commo
 C:\Dev\GitHub\algorithms\Examples\CommonTechniques\bin\Debug\netcoreapp3.1\CommonTechniques.runtimeconfig.dev.json
 C:\Dev\GitHub\algorithms\Examples\CommonTechniques\bin\Debug\netcoreapp3.1\CommonTechniques.dll
 C:\Dev\GitHub\algorithms\Examples\CommonTechniques\bin\Debug\netcoreapp3.1\CommonTechniques.pdb
-C:\Dev\GitHub\algorithms\Examples\CommonTechniques\obj\Debug\netcoreapp3.1\CommonTechniques.csprojAssemblyReference.cache
 C:\Dev\GitHub\algorithms\Examples\CommonTechniques\obj\Debug\netcoreapp3.1\CommonTechniques.AssemblyInfoInputs.cache
 C:\Dev\GitHub\algorithms\Examples\CommonTechniques\obj\Debug\netcoreapp3.1\CommonTechniques.AssemblyInfo.cs
 C:\Dev\GitHub\algorithms\Examples\CommonTechniques\obj\Debug\netcoreapp3.1\CommonTechniques.csproj.CoreCompileInputs.cache

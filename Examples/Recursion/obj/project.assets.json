@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\GitHub\\algorithms\\Examples\\Examples\\Recursion.csproj",
+      "projectUniqueName": "C:\\Dev\\GitHub\\algorithms\\Examples\\Recursion\\Recursion.csproj",
       "projectName": "Recursion",
-      "projectPath": "C:\\Dev\\GitHub\\algorithms\\Examples\\Examples\\Recursion.csproj",
+      "projectPath": "C:\\Dev\\GitHub\\algorithms\\Examples\\Recursion\\Recursion.csproj",
       "packagesPath": "C:\\Users\\nicklasp\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\GitHub\\algorithms\\Examples\\Examples\\obj\\",
+      "outputPath": "C:\\Dev\\GitHub\\algorithms\\Examples\\Recursion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

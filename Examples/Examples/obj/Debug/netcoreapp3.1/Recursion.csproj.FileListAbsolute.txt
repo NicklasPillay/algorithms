@@ -1,0 +1,12 @@
+C:\Dev\GitHub\algorithms\Examples\Examples\bin\Debug\netcoreapp3.1\Recursion.exe
+C:\Dev\GitHub\algorithms\Examples\Examples\bin\Debug\netcoreapp3.1\Recursion.deps.json
+C:\Dev\GitHub\algorithms\Examples\Examples\bin\Debug\netcoreapp3.1\Recursion.runtimeconfig.json
+C:\Dev\GitHub\algorithms\Examples\Examples\bin\Debug\netcoreapp3.1\Recursion.runtimeconfig.dev.json
+C:\Dev\GitHub\algorithms\Examples\Examples\bin\Debug\netcoreapp3.1\Recursion.dll
+C:\Dev\GitHub\algorithms\Examples\Examples\bin\Debug\netcoreapp3.1\Recursion.pdb
+C:\Dev\GitHub\algorithms\Examples\Examples\obj\Debug\netcoreapp3.1\Recursion.AssemblyInfoInputs.cache
+C:\Dev\GitHub\algorithms\Examples\Examples\obj\Debug\netcoreapp3.1\Recursion.AssemblyInfo.cs
+C:\Dev\GitHub\algorithms\Examples\Examples\obj\Debug\netcoreapp3.1\Recursion.csproj.CoreCompileInputs.cache
+C:\Dev\GitHub\algorithms\Examples\Examples\obj\Debug\netcoreapp3.1\Recursion.dll
+C:\Dev\GitHub\algorithms\Examples\Examples\obj\Debug\netcoreapp3.1\Recursion.pdb
+C:\Dev\GitHub\algorithms\Examples\Examples\obj\Debug\netcoreapp3.1\Recursion.genruntimeconfig.cache
